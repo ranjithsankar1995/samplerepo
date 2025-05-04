@@ -1,1 +1,1 @@
-echo "This is my script";
+echo "This is my script file";
