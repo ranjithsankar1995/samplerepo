@@ -1,3 +1,3 @@
 echo "This is my script file";
 
-echo "important script";
+echo "important script file";
